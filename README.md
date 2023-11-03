@@ -25,7 +25,7 @@ This is a MERN (MongoDB, Express, React, Node.js) project for creating and manag
 
 ## Folder Structure
 
-The project is structured into two main folders: `client-side` for the frontend and `server` for the backend.
+The project is structured into two main folders: `client-side` for the front end and `server` for the back end.
 
 - **`client-side`**: Contains the React-based frontend code and components.
 - **`server`**: Contains the Express-based backend code and API endpoints.
@@ -40,11 +40,11 @@ The project is structured into two main folders: `client-side` for the frontend 
 
 Install the required dependencies for both the frontend and backend:
 
-**Frontend dependencies**
+**Frontend dependencies:**
 cd client-side
 npm install
 
-**Backend dependencies**
+**Backend dependencies:**
 cd ..server
 npm install
 
@@ -66,7 +66,7 @@ Contributions are welcome. Please follow the GitHub workflow and create a pull r
 
 
 **License**
-This project is licensed under the Apache License 2.0 .
+This project is licensed under the Apache License 2.0.
 
 
 
