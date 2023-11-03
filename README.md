@@ -61,11 +61,13 @@ In the client-side directory, start the React development server:
 npm start
 
 
-**Contribution:**
-Contributions are welcome. Please follow the GitHub workflow and create a pull request for your contributions
+## Contribution:
+
+Contributions are welcome. Please follow the GitHub workflow and create a pull request for your contributions.
 
 
-**License**
+## License:
+
 This project is licensed under the Apache License 2.0.
 
 
