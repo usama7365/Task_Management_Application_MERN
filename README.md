@@ -10,7 +10,7 @@ This is a MERN (MongoDB, Express, React, Node.js) project for creating and manag
 
 - **Dark Mode:** A dark mode feature is implemented, allowing users to toggle between light and dark modes.
 
-## Technologies Used
+## Technologies Used:
 
 - **Backend:**
   - MongoDB: Used as the database to store task and user data.
