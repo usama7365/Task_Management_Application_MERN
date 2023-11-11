@@ -2,7 +2,7 @@
 
 This is a MERN (MongoDB, Express, React, Node.js) project for creating and managing tasks. The application provides features for adding, viewing, and managing tasks, along with user authentication, protected routes, and dark mode.
 
-## Features
+## Features:
 
 - **User Authentication:** The application includes user authentication using JWT (JSON Web Tokens) and bcrypt for secure password storage.
 
